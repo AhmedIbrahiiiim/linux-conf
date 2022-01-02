@@ -1,0 +1,33 @@
+thunar 
+nautilus 
+gparted 
+ulancher 
+teamviewer 
+zoom -d
+discord 
+obs 
+mozila firfox 
+google chrome 
+microsoft Edge 
+VScode 
+alacritty 
+thunderbird 
+notepadqq 
+vlc 
+emote 
+Noise Touch 
+gimp 
+virtualbox 
+
+packages
+--------
+- htop
+- neofetch 
+- cargo
+- exa 
+- ranger 
+- git 
+- vim 
+- nodejs 
+- npm 
+
