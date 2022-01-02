@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=imwheel
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=imwheel
+Name=imwheel
+Comment[en_US]=fic scrilling speed
+Comment=fic scrilling speed
+X-MATE-Autostart-Delay=0

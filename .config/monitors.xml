@@ -1,0 +1,23 @@
+<monitors version="1">
+  <configuration>
+      <clone>no</clone>
+      <output name="DisplayPort-0">
+          <vendor>DEL</vendor>
+          <product>0xa089</product>
+          <serial>0x36343653</serial>
+          <width>1440</width>
+          <height>900</height>
+          <rate>75</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+      </output>
+      <output name="VGA-0">
+      </output>
+      <output name="DVI-0">
+      </output>
+  </configuration>
+</monitors>
