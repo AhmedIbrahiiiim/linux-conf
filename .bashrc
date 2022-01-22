@@ -98,6 +98,7 @@ alias update='sudo apt update && apt list --upgradable && sudo apt upgrade'
 alias cl='clear'
 alias eye-start='redshift -b 1.0 -O 5700k'
 alias eye-stop='redshift -x'
+alias cleaning='sudo apt autoremove && sudo apt autoclean && sudo apt clean'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
@@ -123,10 +124,8 @@ if ! shopt -oq posix; then
   fi
 fi
 
-# auto start neofetch on start-up
-neofetch
+### auto start neofetch on start-up
+## neofetch
 
 # starting with starship command prompt
 eval "$(starship init bash)"
-
-
